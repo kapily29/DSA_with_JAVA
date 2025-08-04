@@ -1,5 +1,3 @@
-package Kapil.DSA_with_JAVA.Recursion;
-
 public class basic {
     public static void count(int i, int n){ //count(4 , 5)
         if(i==n){

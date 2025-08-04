@@ -1,5 +1,3 @@
-package Kapil.DSA_with_JAVA.Recursion;
-
 public class SumNatNum {
     public static int naturalsum(int n){
         if(n==1){

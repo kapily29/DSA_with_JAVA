@@ -1,5 +1,3 @@
-package Kapil.DSA_with_JAVA.Recursion;
-
 public class Increasingnumber {
     public static void printInc(int n) {
         if(n==1){

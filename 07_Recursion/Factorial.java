@@ -1,4 +1,3 @@
-package Kapil.DSA_with_JAVA.Recursion;
 import java.util.*;
 
 public class Factorial {
